@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Shop_NavigationView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings usados en el app -->
+    <string name="principal_item">Home</string>
+    <string name="productos_item">Productos</string>
+    <string name="compras_item">Compras</string>
+    <string name="ordenes_item">Ordenes</string>
+    <string name="facturas_item">Facturas</string>
+    <string name="log_out_session">Cerrar Sesion</string>
+    <string name="configuracion_item">Configuracion</string>
+
+
+    <!-- String aditional -->
+    <string name="userName"> Juan D. Hernandez</string>
+    <string name="mailUser">jdmotas@gmail.com</string>
+</resources>
